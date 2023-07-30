@@ -1,0 +1,12 @@
+{
+  "name": "sass_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node-sass -o css sccs -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
